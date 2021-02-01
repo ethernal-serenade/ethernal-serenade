@@ -1,4 +1,4 @@
-## Hi I'm Gaboso :fox_face:
+## Hi I'm Ethernal-Serenade :world_map:
 
 ![Ethernal-Serenade]
 

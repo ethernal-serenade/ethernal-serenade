@@ -1,7 +1,5 @@
 ## Hi I'm Ethernal-Serenade (Real name is Nguyễn Đức Lâm)
 
-![Ethernal-Serenade]
-
 :computer: Developer at SCIREN, Ho Chi Minh City
 
 ### My GitHub Stats

@@ -4,7 +4,7 @@
 
 ### My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ethernal-Serenade&show_icons=true&theme=tokyonight)
-![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethernal-Serenade&langs_count=10)](https://github.com/soiqualang/Py4Sqlite3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethernal-Serenade&langs_count=10)
 
 ### My Tech Stack
 My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artificial_satellite:

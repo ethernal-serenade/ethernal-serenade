@@ -5,7 +5,7 @@
 :computer: Developer at SCIREN, Ho Chi Minh City
 
 ### My GitHub Stats
-<img src="stats.jpg" />
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ethernal-Serenade&show_icons=true&theme=tokyonight)
 
 ### My Tech Stack
 My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artificial_satellite:

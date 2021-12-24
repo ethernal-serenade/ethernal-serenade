@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethernal-Serenade&langs_count=10&layout=compact&theme=tokyonight)
 
+![Github Tropy](https://github-profile-trophy.vercel.app/?username=Ethernal-Serenade&column=8&margin-w=15&margin-h=15)
+
 ### My Tech Stack
 My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artificial_satellite:
 

@@ -9,6 +9,8 @@
 
 ![Github Tropy](https://github-profile-trophy.vercel.app/?username=Ethernal-Serenade&column=8&margin-w=15&margin-h=15)
 
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ethernal-Serenade&theme=algolia)
+
 ### My Tech Stack
 My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artificial_satellite:
 

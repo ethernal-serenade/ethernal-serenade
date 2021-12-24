@@ -3,6 +3,8 @@
 :computer: Developer at SCIREN, Ho Chi Minh City
 
 ### My GitHub Stats
+![My Summary Profile](https://profile-summary-for-github.com/user/Ethernal-Serenade)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ethernal-Serenade&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethernal-Serenade&langs_count=10&layout=compact&theme=tokyonight)

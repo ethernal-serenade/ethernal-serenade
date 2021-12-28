@@ -23,6 +23,7 @@ My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artif
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![PHP](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=000000&color=B472C1)
+![Laravel](https://img.shields.io/badge/-Laravel-%23E44D27?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r&logoColor=white&color=blue)

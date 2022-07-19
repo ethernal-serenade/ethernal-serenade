@@ -1,16 +1,16 @@
 ## Hi I'm Ethernal-Serenade (Real name is Nguyễn Đức Lâm)
 
-:computer: Developer at SCIREN, Ho Chi Minh City
-:computer: Software Engineer (BE) at Eatiplaner
++ :computer: Developer at SCIREN, Ho Chi Minh City
++ :computer: Software Engineer (BE) at Eatiplaner
 
 ### My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ethernal-Serenade&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethernal-Serenade&langs_count=10&layout=compact&theme=tokyonight)
 
-![Github Tropy](https://github-profile-trophy.vercel.app/?username=Ethernal-Serenade&column=8&margin-w=15&margin-h=15)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ethernal-Serenade&show_icons=true&theme=tokyonight)
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ethernal-Serenade&theme=algolia)
+
+![Github Tropy](https://github-profile-trophy.vercel.app/?username=Ethernal-Serenade&column=8&margin-w=15&margin-h=15)
 
 ### My Tech Stack
 My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artificial_satellite:
@@ -26,7 +26,6 @@ My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artif
 ![PHP](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=000000&color=B472C1)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23E44D27?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r&logoColor=white&color=blue)
 
 #### Database
@@ -41,8 +40,6 @@ My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artif
 
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=fff&color=8e1f67)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=000&color=77f400)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=fff&color=017c95)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![R Studio](https://img.shields.io/badge/-RStudio-000000?style=flat-square&logo=rstudio&logoColor=white&color=blue)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 

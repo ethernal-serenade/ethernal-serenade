@@ -1,6 +1,7 @@
 ## Hi I'm Ethernal-Serenade (Real name is Nguyễn Đức Lâm)
 
 :computer: Developer at SCIREN, Ho Chi Minh City
+:computer: Software Engineer (BE) at Eatiplaner
 
 ### My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ethernal-Serenade&show_icons=true&theme=tokyonight)

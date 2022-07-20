@@ -12,7 +12,7 @@
 
 ![Github Tropy](https://github-profile-trophy.vercel.app/?username=Ethernal-Serenade&column=8&margin-w=15&margin-h=15)
 
-<a href="https://github.com/Ethernal-Serenade/Ethernal-Serenade"><img alt="soiqualang's activity graph" src="https://activity-graph.herokuapp.com/graph?username=ethernal-serenade&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/Ethernal-Serenade/Ethernal-Serenade"><img alt="soiqualang's activity graph" src="https://activity-graph.herokuapp.com/graph?username=ethernal-serenade&bg_color=004253&color=ffffff&line=a401f9&point=facc00&hide_border=true"/></a>
 
 ### My Tech Stack
 My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artificial_satellite:

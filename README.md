@@ -1,4 +1,4 @@
-## Hi I'm Ethernal-Serenade (Real name is Nguyễn Đức Lâm)
+## Hi I'm Ethernal Serenade (Real name is Nguyễn Đức Lâm)
 
 + :computer: Developer at SCIREN, Ho Chi Minh City
 + :computer: Software Engineer (BE) at Eatiplaner

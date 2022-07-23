@@ -48,4 +48,4 @@ My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artif
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=white&color=black)
 
-<img alt="eternal nocturne ASCII" src="ASCII-art.png" width="50%" height="50%"/>
+<img alt="eternal nocturne ASCII" src="ASCII-art.png" width="70%" height="70%"/>

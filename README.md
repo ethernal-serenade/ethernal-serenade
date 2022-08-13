@@ -6,9 +6,9 @@
 ## GitHub Statictis
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethernal-Serenade&langs_count=10&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethernal-Serenade&langs_count=15&layout=compact&theme=tokyonight)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ethernal-Serenade&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ethernal-Serenade&show_icons=false&theme=tokyonight)
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ethernal-Serenade&theme=algolia)
 

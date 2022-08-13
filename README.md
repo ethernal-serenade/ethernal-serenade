@@ -12,7 +12,7 @@
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ethernal-Serenade&theme=algolia)
 
-![Github Tropy](https://github-profile-trophy.vercel.app/?username=Ethernal-Serenade&column=6&margin-w=15&margin-h=15)
+<!-- ![Github Tropy](https://github-profile-trophy.vercel.app/?username=Ethernal-Serenade&column=6&margin-w=15&margin-h=15) -->
 
 <div align="center">
 <a href="https://github.com/Ethernal-Serenade/Ethernal-Serenade">

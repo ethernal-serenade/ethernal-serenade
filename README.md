@@ -37,7 +37,7 @@ My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artif
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r&logoColor=white&color=blue)
 :pushpin:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-CC2927?style=flat-square&logo=mysql&logoColor=white&color=blue)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 :pushpin:

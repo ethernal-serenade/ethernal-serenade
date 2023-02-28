@@ -1,7 +1,7 @@
 # <p align="center">Hi I'm Ethernal Serenade (Real name is Nguyễn Đức Lâm)</p>
 
 + :computer: Leader Develop at LAHUTH teams (SCIREN)
-+ :computer: Software Engineer - INTELLI Technology JSC
++ :computer: Software Engineer Freelancer
 
 ## GitHub Statictis
 <div align="center">

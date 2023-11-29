@@ -1,61 +1,72 @@
-# <p align="center">Hi I'm Ethernal Serenade (Real name is Nguyễn Đức Lâm)</p>
+<!-- Ethernal GitHub Profile -->
+<div align="justify">
 
-+ :computer: Leader Develop at LAHUTH teams (SCIREN)
-+ :computer: Software Engineer Freelancer
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Ethernal (real name is Lâm), a Leader Developer at LAHUTH teams (SDITAC), I like Geography :earth_americas:, GIS :world_map:, Map :artificial_satellite: and coding
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Making%20world%20better%20by%20coding.">
+      <br>
+      <b>
+        ~ Ethernal Serenade ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-## GitHub Statictis
+<br>
+
+<details>
+<summary><samp><b>More Information</b></samp></summary>
+
+<h2></h2><br>
+
+<!-- Contact Me -->
+<p align="center">
+  <samp>
+    [<a href="https://www.facebook.com/bavuongdaradi.3990">facebook</a>]
+    [<a href="mailto:nguyenduclam0605@gmail.com">gmail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <samp>
+  <a href="#--------">
+    <img src="https://komarev.com/ghpvc/?username=ethernal-serenade&label=Profile+Views&color=grey" alt="profile views" /> 
+  </a>
+  </samp>
+</p>
+
+<!-- Github Trophy -->
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethernal-Serenade&langs_count=15&layout=compact&theme=tokyonight)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ethernal-Serenade&show_icons=false&theme=tokyonight)
-
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ethernal-Serenade&theme=algolia)
-
-<!-- ![Github Tropy](https://github-profile-trophy.vercel.app/?username=Ethernal-Serenade&column=6&margin-w=15&margin-h=15) -->
-
-<div align="center">
-<a href="https://github.com/Ethernal-Serenade/Ethernal-Serenade">
-<img alt="ethernal-serenade's activity graph" src="https://activity-graph.herokuapp.com/graph?username=ethernal-serenade&bg_color=004253&color=ffffff&line=a401f9&point=facc00&hide_border=false" width="80%" height="80%"/>
-</a>
+  <table>
+    <tr>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=ethernal-serenade&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
+    </tr>
+  </table>
 </div>
 
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethernal-serenade&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethernal-serenade&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+	<tr>
+	  <td colspan="2" align="center"><a href="#--------"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ethernal-Serenade&theme=algolia"></a></td>
+	</tr>
+  </table>
 </div>
 
-## Technique Stack
-My products related to WebGIS :earth_americas:, WebMap :world_map:, WebRS :artificial_satellite:
-
-## Frontend, Backend, Database, Web Server, Version Control, IDEs and Operating System
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![VueJS](https://img.shields.io/badge/VueJS-3.x-brightgreen.svg?style=flat-square")
-![Leaflet](https://img.shields.io/badge/-Leaflet-%23282C34?style=flat-square&logo=leaflet&logoColor=green&color=000000) 
-:pushpin:
-![PHP](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=000000&color=B472C1)
-![Laravel](https://img.shields.io/badge/-Laravel-%23E44D27?style=flat-square&logo=laravel&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r&logoColor=white&color=blue)
-:pushpin:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-CC2927?style=flat-square&logo=mysql&logoColor=white&color=blue)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-:pushpin:
-![XAMPP](https://img.shields.io/badge/-Apache-%23282C34?style=flat-square&logo=apache&logoColor=black&color=ffbf00)
-![Apache Tomcat](https://img.shields.io/badge/-Tomcat-%23282C34?style=flat-square&logo=apache-tomcat&logoColor=black&color=ffbf00)
-![Docker](https://img.shields.io/badge/-Docker-%23282C34?style=flat-square&logo=docker&logoColor=fff&color=4708ff)
-:pushpin:
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-:pushpin:
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=fff&color=8e1f67)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=000&color=77f400)
-![R Studio](https://img.shields.io/badge/-RStudio-000000?style=flat-square&logo=rstudio&logoColor=white&color=blue)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-:pushpin:
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=white&color=black)
-
-<div align="center">
-  <img alt="eternal nocturne ASCII" src="nocturne_ASCII.png" width="75%" height="75%">
+</details>
 </div>

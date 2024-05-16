@@ -8,7 +8,7 @@
       <b>
         Hello There
       <br>
-        I'm Ethernal (real name is Lâm), a Leader Developer at LAHUTH teams (SDITAC), I like Geography :earth_americas:, GIS :world_map:, Map :artificial_satellite: and coding
+        I'm Ethernal (real name is Lâm), I like Geography :earth_americas:, GIS :world_map:, Map :artificial_satellite: and coding
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Making%20world%20better%20by%20coding.">

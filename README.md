@@ -69,7 +69,7 @@
 </div>
 </details>
 
-<summary><samp><b>📈 Code Activity Wakatime</b></samp></summary>
+<h2 align='center'> 📈 Code Activity Wakatime </h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

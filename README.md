@@ -67,11 +67,9 @@
 	</tr>
   </table>
 </div>
+</details>
 
-<h2 align='center'> 📈 Code Activity Wakatime </h2>
+<summary><samp><b>📈 Code Activity Wakatime</b></samp></summary>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-</details>
-</div>

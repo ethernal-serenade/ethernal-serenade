@@ -12,7 +12,7 @@ jobs:
       - name: Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
           # Options
           filename: metrics.svg

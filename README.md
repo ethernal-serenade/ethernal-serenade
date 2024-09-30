@@ -72,7 +72,7 @@
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.0%20million%20lines%20of%20code-blue)
 
@@ -101,14 +101,12 @@ Sunday                   290 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       26 mins             ██████████████████████░░░   89.21 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-GitIgnore file           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+C#                       2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Jetbrainsrider           30 mins             █████████████████████████   100.00 % 
+Jetbrainsrider           2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/09/2024 00:32:27 UTC
+ Last Updated on 30/09/2024 00:30:39 UTC
 <!--END_SECTION:waka-->

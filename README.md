@@ -8,7 +8,7 @@
       <b>
         Hello There
       <br>
-        I'm Ethernal (real name is Lâm), I like Geography :earth_americas:, GIS :world_map:, Map :artificial_satellite: and coding :computer:
+        I'm Ethernal (real name is Lâm), I like Coding :computer:, Geography :earth_americas:, GIS :world_map: and Map :artificial_satellite:
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Making%20world%20better%20by%20coding.">
